@@ -1,0 +1,4 @@
+dot2tex==2.11.3
+gensim==4.0.1
+plotly==4.14.3
+pytorch-model-summary==0.1.2
